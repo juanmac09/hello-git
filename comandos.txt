@@ -1,0 +1,4 @@
+commit -m Para hacer guardados hasta ese punto
+reflog para ver todos los commit del repositorio
+checkout para ir a uno de los puntos guardados
+tag para marcar un punto importante de la aplicacion como una version
