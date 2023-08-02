@@ -7,3 +7,8 @@ add . para añadir todos los archivos al repositorio guardado
 Para movernos entre tag es git checkout tag/nombre del tag
 git tag muestra los tag existentes
 git checkout main volvemos al punto donde estamos
+merge traer de cosas de una rama  a otra
+stash nos sirve para guardar sin hacer commit 
+git stash list para mostrar los stash 
+git stash pop restaura el stash que hayamos hecho antes 
+git stash drop borra los stash
