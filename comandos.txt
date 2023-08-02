@@ -13,3 +13,6 @@ git stash list para mostrar los stash
 git stash pop restaura el stash que hayamos hecho antes 
 git stash drop borra los stash
 git diff es para ver diferencias de ficheros o ramas 
+brach muestra las ramas
+brach nombre crea una rama nueva
+branch -d nombre de rama para elminar ramas
