@@ -1,3 +1,1 @@
 # hello-git
-
-mucho gusto
